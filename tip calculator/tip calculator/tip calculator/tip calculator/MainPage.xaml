@@ -1,0 +1,86 @@
+﻿ 
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="tip_calculator.MainPage">
+    
+    <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" >
+
+        <Grid BackgroundColor="GreenYellow" >
+        
+            <Label WidthRequest="100" Text="Bill:" FontSize="Large" Grid.Row="0" Grid.Column="0"/>
+            <Label WidthRequest="100" x:Name="billAmountLabel" Text="$0.00"
+                   Grid.Row="0" Grid.Column="1"/>
+
+
+
+            <Label WidthRequest="100" Text="Tip:" FontSize="Large" Grid.Row="1" Grid.Column="0"/>
+            <Label WidthRequest="100" x:Name="tipAmountLabel" Text="$0.00" 
+                   Grid.Row="1" Grid.Column="1"/>
+
+
+
+
+            <Label WidthRequest="100" Text="Total:" FontSize="Large" Grid.Row="2" Grid.Column="0"/>
+            <Label WidthRequest="100" x:Name="totalAmountLabel" Text="$0.00" 
+                   Grid.Row="2" Grid.Column="1"/>
+
+
+
+        </Grid>
+
+        <StackLayout Orientation="Horizontal" >
+            <Label x:Name="percentLabel" Text="0%" FontSize="Large" FontAttributes="Bold"  VerticalTextAlignment="Center"/>
+            <Slider x:Name="PercentSlider" Minimum="0" Maximum="100" Value="10" WidthRequest="200" BackgroundColor="BlueViolet"/>
+        </StackLayout>
+        
+       
+
+        <Grid HorizontalOptions="CenterAndExpand" BackgroundColor="Aquamarine">
+            
+            <Grid.ColumnDefinitions>
+                
+                <ColumnDefinition />
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                
+            </Grid.ColumnDefinitions>
+            
+            <Grid.RowDefinitions>
+                
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+
+            </Grid.RowDefinitions>
+            
+            <Button x:Name="seven" Text="7" Grid.Row="0" Grid.Column="0"/>
+            <Button x:Name="eight" Text="8" Grid.Row="0" Grid.Column="1"/>
+            <Button x:Name="nine" Text="9" Grid.Row="0" Grid.Column="2"/>
+
+            <Button x:Name="four" Text="4" Grid.Row="1" Grid.Column="0"/>
+            <Button x:Name="five" Text="5" Grid.Row="1" Grid.Column="1"/>
+            <Button x:Name="six" Text="6" Grid.Row="1" Grid.Column="2"/>
+
+            <Button x:Name="one" Text="1" Grid.Row="2" Grid.Column="0"/>
+            <Button x:Name="two" Text="2" Grid.Row="2" Grid.Column="1"/>
+            <Button x:Name="three" Text="3" Grid.Row="2" Grid.Column="2"/>
+
+            <Button x:Name="dot" Text="." Grid.Row="3" Grid.Column="0"/>
+            <Button x:Name="zero" Text="0" Grid.Row="3" Grid.Column="1"/>
+            <Button x:Name="c" Text="C" Grid.Row="3" Grid.Column="2"/>
+
+
+        </Grid>
+
+    </StackLayout>
+
+
+
+
+
+
+</ContentPage>

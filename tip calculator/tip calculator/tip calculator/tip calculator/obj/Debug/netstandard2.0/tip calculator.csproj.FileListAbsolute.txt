@@ -1,0 +1,37 @@
+C:\Users\20045409\source\repos\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.deps.json
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.dll
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\ref\tip calculator.dll
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.pdb
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.dll
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\ref\tip calculator.dll
+C:\Users\Giovanni\Desktop\Xamarin\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.pdb
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csprojAssemblyReference.cache
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfoInputs.cache
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfo.cs
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.dll
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\ref\tip calculator.dll
+C:\Users\20045409\Desktop\OneDrive_2020-09-01\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.pdb
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.deps.json
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.dll
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\ref\tip calculator.dll
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\bin\Debug\netstandard2.0\tip calculator.pdb
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.dll
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\ref\tip calculator.dll
+C:\Users\Giovanni\Desktop\tip calculator\tip calculator\tip calculator\obj\Debug\netstandard2.0\tip calculator.pdb
